@@ -1,10 +1,38 @@
-# asfasfa
+# 🪨 Stone Paper Scissors - Console Game
 
-## 🎮 Gameplay Demo
+This is a simple console-based simulation of the classic **Stone Paper Scissors** game (also known as Rock Paper Scissors). The game is played between a **player** and the **computer** for a maximum of **10 rounds**.
 
-[▶️ Click to watch the demo](vlc-record-2025-04-09-08h02m04s-2025-04-09%2007-56-33.mkv-.mp4)
+## 🎮 How it works
 
- vlc-record-2025-04-09-08h02m04s-2025-04-09 07-56-33.mkv-.mp4
+- The player inputs their choice: **stone**, **paper**, or **scissors**.
+- The computer makes a random choice between the three options.
+- Each round determines the winner based on the classic rules:
+  - Stone beats Scissors
+  - Scissors beats Paper
+  - Paper beats Stone
+- After 10 rounds, the game shows:
+  - Total rounds played
+  - Number of rounds won by the player and computer
+  - Final result: who won or if it was a tie
 
+## 👨‍💻 Features
+
+- Console-based interactive gameplay
+- Random choice generation for the computer
+- Keeps track of scores and rounds
+- Final game result summary
+
+ 
  https://github.com/user-attachments/assets/831a7051-9379-4192-9829-29a53bb78566
+
+## 🛠️ Technologies
+
+- Language: C++
+- Platform: Console Application
+
+---
+
+Enjoy the game and feel free to fork or contribute!
+
+
 
