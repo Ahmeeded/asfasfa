@@ -22,7 +22,7 @@ This is a simple console-based simulation of the classic **Stone Paper Scissors*
 - Keeps track of scores and rounds
 - Final game result summary
 
- 
+ ## 🎮 Gameplay Demo Video  
  https://github.com/user-attachments/assets/831a7051-9379-4192-9829-29a53bb78566
 
 ## 🛠️ Technologies
